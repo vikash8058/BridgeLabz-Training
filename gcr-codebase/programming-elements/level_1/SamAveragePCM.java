@@ -8,13 +8,10 @@ public class SamAveragePCM{
         int physicsMarks = 95;
         int chemistryMarks = 96;
 
-        
-        int totalMarks = mathsMarks + physicsMarks + chemistryMarks;      // Calculate total marks
-
+        int totalMarks = mathsMarks + physicsMarks + chemistryMarks;   // Calculate total marks
         
         double averagePercentage = totalMarks / 3.0;     // Calculate average percentage
 
-       
         System.out.println("Sam’s average mark in PCM is " + averagePercentage);    // Display the result
     }
 }
