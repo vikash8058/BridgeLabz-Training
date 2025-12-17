@@ -24,7 +24,7 @@ public class AreaOfTriangle
 	System.out.println("The Area of the triangle in sq in is " + areaSqIn +
                            " and sq cm is " + areaSqCm);
 
-	input.close(); // Closing the Scanner object
+	input.close();  // Closing the Scanner object
     }
 
 }
