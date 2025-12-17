@@ -7,10 +7,8 @@ public class KilometerToMilesConverter {
         double distanceInKilometers = 10.8;
         double conversionFactor = 1.6; // 1 km = 1.6 miles (as given)
 
-        
         double distanceInMiles = distanceInKilometers * conversionFactor;  // Convert kilometers to miles
 
-        
-        System.out.println("The distance " + distanceInKilometers + " km in miles is " + distanceInMiles);
+        System.out.println("The distance " + distanceInKilometers + " km in miles is " + distanceInMiles); //Display the result
     }
 }
