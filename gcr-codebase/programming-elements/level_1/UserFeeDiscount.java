@@ -5,7 +5,7 @@ public class UserFeeDiscount
 {  
     public static void main(String[] args)
     {
-        //declare variables
+        //declare variables	
         double fee;
         double discountPercent;
         
