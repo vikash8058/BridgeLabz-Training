@@ -20,7 +20,7 @@ public class BasicOperation
 	System.out.println("The addition, subtraction, multiplication and division value of 2 numbers " 
                            + number1 + " and " + number2 + " is " 
                            + addition + ", " + subtraction + ", " 
-                           + multiplication + ", and " + division); //Display the result
+                           + multiplication + ", and " + division);  //Display the result
 	
 	input.close();  //closing the Scanner object
     }
