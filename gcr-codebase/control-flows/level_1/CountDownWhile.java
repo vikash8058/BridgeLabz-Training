@@ -7,7 +7,7 @@ public class CountdownWhile
     {
 	//create Scanner object
 	Scanner input=new Scanner(System.in);
-
+	
 	//get input value for counter
 	System.out.print("Enter the countdown value: ");
 	int counter=input.nextInt();
