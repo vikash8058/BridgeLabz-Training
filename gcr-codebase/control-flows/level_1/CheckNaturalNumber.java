@@ -1,5 +1,6 @@
 // program to check for the natural number and find out the sum of n natural numbers
 import java.util.Scanner;
+
 public class CheckNaturalNumber
 {
     public static void main(String[] args)
