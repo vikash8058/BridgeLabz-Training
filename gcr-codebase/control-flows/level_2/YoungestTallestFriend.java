@@ -1,7 +1,7 @@
 //program to find youngest and tallest friend
 import java.util.Scanner;
 
-public class YoungestAndTallestFriend
+public class YoungestTallestFriend
 {
     public static void main(String[] args)
     {
