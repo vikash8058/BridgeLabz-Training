@@ -16,11 +16,12 @@ public class TrigonometricFunctions
 		return result;
 	}
 	
-	//method to display elements of array
-	void display(int angle[]){
-		System.out.println("Sine: "+angle[0]);
-		System.out.println("Cosine: "+angle[1]);
-		System.out.println("Tangent: "+angle[2]);
+	//method to display trigonometric values
+	void display(double values[])
+	{
+		System.out.println("Sine: "+values[0]);
+		System.out.println("Cosine: "+values[1]);
+		System.out.println("Tangent: "+values[2]);
 	}
 
 	public static void main(String[] args)
@@ -35,11 +36,11 @@ public class TrigonometricFunctions
 		System.out.print("Enter angle in degrees: ");
 		double angle=input.nextDouble();
 
-		//calling method
+		//calling method to calculate values
 		double result[]=trig.calculateTrigonometricFunctions(angle);
 
-		//callign method for display result
-		trig.display(angle);
+		//calling method to display result
+		trig.display(result);
 		
 		input.close();  //closing input stream
 	}
