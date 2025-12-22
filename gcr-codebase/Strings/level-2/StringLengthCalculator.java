@@ -92,7 +92,7 @@ public class TeamBMICalculator {
             double bmi = weightKg / (heightMeter * heightMeter);
 
             // get BMI status
-            String status = getBMIStatus(bmi);
+            String status = getBMIStatus(bmi);    
 
             // store values in result array
             result[i][0] = String.format("%.2f", heightCm);
