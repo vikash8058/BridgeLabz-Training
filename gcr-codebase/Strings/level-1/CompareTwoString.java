@@ -17,7 +17,7 @@ public class CompareTwoString{
 					   
 				 }
 			  }
-			  return flag;
+			    return flag;
 		}
   public static void main(String[]args){
     
