@@ -37,6 +37,7 @@ public class CountVowelAndConsonant{
 	   
 	   //call the methods 
 	   countVowelAndConsonant(text);
+	   input.close();  // Closing scanner stream
 	          
 	   }
 }
