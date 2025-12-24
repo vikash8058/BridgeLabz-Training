@@ -26,17 +26,17 @@ public class MostFrequentCharacter {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         
 		// Take user input
         System.out.print("Enter a string: ");
-        String input = sc.nextLine();
+        String inputString = sc.nextLine();
         
 		// Display the result
-        char mostFrequent = findMostFrequentChar(input);
+        char mostFrequent = findMostFrequentChar(inputString);
         System.out.println("Most Frequent Character: '" + mostFrequent + "'");
          
-		// Closing scanner stream
-        sc.close();
+		
+        input.close(); //closing input stream
     }
 }
