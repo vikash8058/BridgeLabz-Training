@@ -26,9 +26,10 @@ public class DuplicateString{
 	   text=input.nextLine();
 	   
 	   //call the methods 
-	    System.out.println("old String:"+text);
-		System.out.println("Modified String: "+removeDuplicate(text));
-	          
+	   System.out.println("old String:"+text);
+	   System.out.println("Modified String: "+removeDuplicate(text));
+	       
+	   input.close();  // Closing scanner stream    
 	      
 	   }
 }
