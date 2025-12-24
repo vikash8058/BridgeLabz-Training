@@ -34,6 +34,6 @@ public class MaximumOfThree {
 
         System.out.println("Maximum number is: " + max);
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
