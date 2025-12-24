@@ -37,7 +37,8 @@ public class PalidromeCheck{
 	  }else{
 		  System.out.println("String is not palindrome");
 	  }
-	          
+	  
+	  input.close(); // Closing scanner stream        
 	 
    }
 }
