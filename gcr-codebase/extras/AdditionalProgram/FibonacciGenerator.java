@@ -27,6 +27,6 @@ public class FibonacciGenerator {
 
         generateFibonacci(terms);
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
