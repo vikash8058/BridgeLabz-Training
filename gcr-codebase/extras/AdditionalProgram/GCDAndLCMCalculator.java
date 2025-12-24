@@ -36,6 +36,6 @@ public class GCDAndLCMCalculator {
         System.out.println("GCD: " + gcd);
         System.out.println("LCM: " + lcm);
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
