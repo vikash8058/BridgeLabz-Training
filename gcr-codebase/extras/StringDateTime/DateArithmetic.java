@@ -23,6 +23,6 @@ public class DateArithmetic {
         // Display result
         System.out.println("Final Date after operations: " + resultDate);
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
