@@ -16,19 +16,19 @@ public class RemoveSpecificCharacter {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         
-		// Take user input
+	// Take user input
         System.out.print("Enter a string: ");
-        String input = sc.nextLine();
+        String inputString = input.nextLine();
         System.out.print("Enter character to remove: ");
-        char ch = sc.next().charAt(0);
+        char ch = input.next().charAt(0);
 
         // Display the result
-        String output = removeCharacter(input, ch);
+        String output = removeCharacter(inputString, ch);
         System.out.println("Modified String: \"" + output + "\"");
         
-		// Closing scanner stream
-        sc.close();
+		
+        input.close(); // Closing scanner stream
     }
 }
