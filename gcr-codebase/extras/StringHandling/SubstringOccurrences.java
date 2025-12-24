@@ -16,19 +16,19 @@ public class SubstringOccurrences {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         
 		// Take user input
         System.out.print("Enter the main string: ");
-        String str = sc.nextLine();
-		System.out.print("Enter the substring: ");
-        String sub = sc.nextLine();
+        String inputString = input.nextLine();
+	System.out.print("Enter the substring: ");
+        String subString = input.nextLine();
 		
         // Displaying the result
-        int result = countOccurrences(str, sub);
+        int result = countOccurrences(inputString, subString);
         System.out.println("Substring occurs " + result + " times.");
         
-		// Closing scanner stream
-        sc.close();
-    }
+		
+        input.close();  // Closing scanner stream
+    } 
 }
