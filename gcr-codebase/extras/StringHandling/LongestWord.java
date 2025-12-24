@@ -4,16 +4,16 @@ import java.util.Scanner;
 public class LongestWord{
          public static String longestWord(String text){
 		      String longestWord="";
-			  String[]words=text.split(" ");
-			  int max=0;
-			  for(int i=0;i<words.length;i++){
+		      String[]words=text.split(" ");
+		      int max=0;
+		      for(int i=0;i<words.length;i++){
 			       if(max<words[i].length()){
 				      max=words[i].length();
 					  longestWord=words[i];
 				   }
 			  }
-			  return longestWord;
-		 }
+	 return longestWord;
+        }
        public static void main(String[]args){
 	   //initialise variable
 	   String text;
@@ -29,6 +29,6 @@ public class LongestWord{
 	   
 	   System.out.println("Longest Word: "+ longestWord(text));
 	
-	      
+	   input.close();  // Closing scanner stream  
 	   }
 }
