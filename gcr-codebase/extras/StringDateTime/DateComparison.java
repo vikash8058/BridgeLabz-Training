@@ -28,6 +28,6 @@ public class DateComparison {
             System.out.println("Both dates are EQUAL.");
         }
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
