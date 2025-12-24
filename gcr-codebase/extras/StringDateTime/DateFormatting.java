@@ -1,5 +1,4 @@
 // Program to display current date in different formats
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
