@@ -32,6 +32,6 @@ public class PalindromeChecker {
             System.out.println("Not a Palindrome");
         }
 
-        input.close();
+        input.close();  //closing input stream
     }
 }
