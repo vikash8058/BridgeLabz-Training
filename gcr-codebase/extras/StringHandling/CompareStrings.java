@@ -35,17 +35,16 @@ public class CompareStrings {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
         System.out.print("Enter first string: ");
-        String str1 = sc.nextLine();
+        String str1 = input.nextLine();
 
         System.out.print("Enter second string: ");
-        String str2 = sc.nextLine();
+        String str2 = input.nextLine();
 
         compareStrings(str1, str2);
-        
-		// Closing scanner stream
-        sc.close();
+        	
+        input.close();  // Closing scanner stream
     }
 }
