@@ -24,17 +24,17 @@ public class ToggleCase {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         
 		// Take user input
         System.out.print("Enter a string: ");
-        String input = sc.nextLine();
+        String inputString = sc.nextLine();
         
 		// Display the result
-        String output = toggleCase(input);
-        System.out.println("Toggled string: " + output);
+        String outputString = toggleCase(inputString);
+        System.out.println("Toggled string: " + outputString);
         
-		// Scanning scanner stream
-        sc.close();
+		
+        input.close(); // Scanning scanner stream
     }
 }
