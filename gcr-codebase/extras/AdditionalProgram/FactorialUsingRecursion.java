@@ -23,6 +23,6 @@ public class FactorialUsingRecursion {
 
         System.out.println("Factorial: " + result);
 
-        input.close();
+        input.close(); //closing input stream
     }
 }
