@@ -40,6 +40,6 @@ public class NumberGuessingGame {
             }
         }
 
-        input.close();
+        input.close();   //closing input stream
     }
 }
