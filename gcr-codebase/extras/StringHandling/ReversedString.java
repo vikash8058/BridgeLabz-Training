@@ -30,6 +30,7 @@ public class ReversedString{
 	   
 	   //call the methods 
 	   reverseStringMethod(text);
-	          
+	   
+	   input.close();   //closing input stream
 	   }
 }
