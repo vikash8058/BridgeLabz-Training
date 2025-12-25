@@ -1,1 +1,13 @@
 *.class 
+# Ignore Eclipse/IDE files
+.classpath
+.project
+
+# Ignore compiled files and folders
+bin/
+*.class
+
+# Ignore everything except Java source files
+*
+!**/
+!*.java
