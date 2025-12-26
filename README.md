@@ -218,3 +218,103 @@ BridgeLabz-Training
 
 🔗 *Code Link:*  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+
+
+# Day 9 – Core Java Scenario Based Problem Statements
+
+## Overview
+Day 9 focuses on **real-world scenario based programming** using Core Java along with **basic algorithmic problem solving using LeetCode**.  
+The goal of this day is to strengthen **logical thinking, control flow, and problem-solving skills**.
+
+---
+
+## Topics Covered
+- if–else conditional statements
+- switch case
+- for-loop and while-loop
+- ternary operator
+- user input handling
+- basic algorithmic thinking
+- problem solving with constraints
+
+---
+
+## Scenario Based Problems Implemented
+
+### 1️⃣ Election Booth Manager 🗳️
+**Description:**  
+A polling booth simulation where voter eligibility and voting are managed.
+
+**Key Features:**
+- Takes age input from the user
+- Checks voting eligibility (age ≥ 18)
+- Records vote (1, 2, or 3 for candidates)
+- Loop for multiple voters
+- Exit using a special code
+
+**Concepts Used:**  
+`if`, loops, decision making
+
+---
+
+### 2️⃣ Metro Smart Card Fare Deduction 🚇
+**Description:**  
+Simulates a metro smart card fare deduction system.
+
+**Key Features:**
+- Accepts distance travelled
+- Calculates fare using **ternary operator**
+- Deducts fare from smart card balance
+- Continues until balance is exhausted or user quits
+
+**Concepts Used:**  
+ternary operator, loops, arithmetic operations
+
+---
+
+### 3️⃣ Raj’s Result Generator 📊
+**Description:**  
+A result generation system for a coaching center.
+
+**Key Features:**
+- Inputs marks of 5 subjects
+- Calculates average marks
+- Assigns grades using `switch`
+- Uses `for-loop` for subject iteration
+
+**Concepts Used:**  
+`for-loop`, `switch-case`, calculations
+
+---
+
+## LeetCode Practice (Basic Level) 💻
+In addition to scenario-based problems, **5 basic LeetCode questions** were solved to improve algorithmic thinking and coding consistency.
+
+**Focus Areas:**
+- Number-based problems
+- Loop and condition logic
+- Mathematical operations
+- Edge case handling
+
+**Outcome:**
+- Improved understanding of problem constraints
+- Better logical approach for competitive programming
+- Increased confidence in solving basic DSA problems
+
+---
+
+## Learning Outcome
+By completing Day 9, I achieved:
+- Better application of Java concepts in real-life scenarios
+- Improved control over loops and conditional statements
+- Exposure to algorithmic problem-solving
+- Balanced practice between scenario logic and coding platforms
+
+---
+
+## Status
+✔️ Day 9 Completed  
+✔️ 3 Scenario-Based Problems Solved  
+✔️ 5 Basic LeetCode Questions Completed  
+✔️ Code tested with multiple inputs
