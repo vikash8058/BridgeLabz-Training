@@ -318,3 +318,40 @@ By completing Day 9, I achieved:
 ✔️ 3 Scenario-Based Problems Solved  
 ✔️ 5 Basic LeetCode Questions Completed  
 ✔️ Code tested with multiple inputs
+
+## 📅 Day 10 – Core Java & LeetCode Practice
+**🚀 Focus: Arrays, Two Pointers, Binary Search & In-place Operations**
+
+Today, I worked on strengthening my Core Java and DSA fundamentals by solving array-based problems using optimized and clean logic. The focus was on writing efficient solutions, understanding in-place operations, and applying the right algorithmic approach as expected in interviews.
+
+🧠 Concepts Practiced
+
+Array manipulation
+
+Two-pointer technique
+
+Binary Search (O(log n))
+
+In-place modification of arrays
+
+Loop control and conditional logic
+
+Writing clean, readable, and optimized code
+
+✅ Problems Solved (Core Logic)
+
+Two Sum – Found indices of two numbers adding up to a target.
+
+Remove Duplicates from Sorted Array – Removed duplicates in-place while maintaining order.
+
+Remove Element – Removed all occurrences of a given value using index tracking.
+
+Search Insert Position – Used Binary Search to find the target or correct insertion index.
+
+Merge Sorted Array – Merged two sorted arrays in-place using the backward two-pointer approach.
+
+🧩 LeetCode Progress
+
+✔ 5 LeetCode problems completed today
+✔ Focused on Easy-level problems for strong fundamentals
+✔ All solutions are optimized, clean, and LeetCode-accepted
