@@ -336,7 +336,7 @@ In-place modification of arrays
 
 Loop control and conditional logic
 
-Writing clean, readable, and optimized code
+Writing clean, readable, and optimized code 
 
 ✅ Problems Solved (Core Logic)
 
@@ -355,3 +355,43 @@ Merge Sorted Array – Merged two sorted arrays in-place using the backward two-
 ✔ 5 LeetCode problems completed today
 ✔ Focused on Easy-level problems for strong fundamentals
 ✔ All solutions are optimized, clean, and LeetCode-accepted
+
+
+## 📅 Day 11 – Core Java & LeetCode Practice ##
+
+**🚀 Focus: Arrays, Bit Manipulation & Optimized In-place Algorithms**
+
+Today, I focused on strengthening my problem-solving skills by working on classic array problems that are frequently asked in interviews. The emphasis was on writing optimal solutions, using O(1) space, understanding bit manipulation, and applying efficient in-place techniques in Java.
+
+🧠 Concepts Practiced
+
+Array traversal and manipulation
+
+Bitwise XOR operations
+
+Majority voting logic (Boyer–Moore Algorithm)
+
+In-place array modification
+
+Time & space complexity optimization
+
+Writing clean, readable, and interview-ready Java code
+
+✅ Problems Solved (Core Logic)
+
+Single Number – Used XOR to find the element appearing only once.
+
+Best Time to Buy and Sell Stock – Tracked minimum price and maximum profit in one pass.
+
+Majority Element – Applied Boyer–Moore Voting Algorithm for O(1) space solution.
+
+Missing Number – Identified the missing value using XOR without extra memory.
+
+Move Zeroes – Moved all zeros to the end while maintaining order using in-place logic.
+
+🧩 LeetCode Progress
+
+✔ 5 LeetCode problems completed today
+✔ Focused on array-based Easy problems with optimal approaches
+✔ Solutions use O(n) time and O(1) extra space wherever applicable
+✔ All code is clean, readable, and LeetCode-accepted
