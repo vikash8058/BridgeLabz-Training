@@ -435,3 +435,20 @@ Move Zeroes – Moved all zeros to the end while maintaining order using in-plac
 🔗 *Code Link:*  
 👉 [Day 11 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+***🧩 LeetCode Practice – Recent Problems**
+
+Worked on strengthening array and matrix problem-solving skills by implementing optimized and clean Java solutions. The focus was on understanding traversal patterns, in-place operations, and applying standard algorithms commonly expected in technical interviews.
+
+Problems Solved:
+
+- > Concatenation of Array – Constructed a new array by duplicating elements while maintaining order.
+
+- > Transpose Matrix – Converted a matrix by swapping rows and columns using efficient traversal.
+
+- > Monotonic Array – Determined whether an array is monotone increasing or decreasing in a single pass.
+
+- > Spiral Matrix – Traversed a 2D matrix in spiral order using boundary-based logic.
+
+- > Maximum Subarray – Applied Kadane’s Algorithm to find the maximum subarray sum efficiently.
+
+✔ All solutions are LeetCode-accepted, optimized for time and space, and written with clean, readable Java code.
