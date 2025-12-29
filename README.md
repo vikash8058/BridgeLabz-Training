@@ -395,3 +395,43 @@ Move Zeroes – Moved all zeros to the end while maintaining order using in-plac
 ✔ Focused on array-based Easy problems with optimal approaches
 ✔ Solutions use O(n) time and O(1) extra space wherever applicable
 ✔ All code is clean, readable, and LeetCode-accepted
+
+
+## 📅 Day 11 – Core Java: Scenario-Based Problem Solving ##
+
+**(Date: 29-Dec-2025)**
+***(Focus: Loops, Conditional Logic & Real-World Scenarios)***
+
+-> Solved 5 scenario-based Core Java problems to strengthen logical thinking and control-flow concepts.
+
+-> Implemented menu-driven programs using switch-case and while loops.
+
+-> Practiced do-while loops for user-driven gameplay with limited attempts and hint-based logic.
+
+-> Used for loops and for-each loops to handle multiple inputs and collections effectively.
+
+-> Applied if-else conditions for decision-making such as discounts, eligibility, and status tracking.
+
+-> Focused on writing clean, readable, and well-structured Java code with proper indentation.
+
+-> Followed consistent naming conventions, constants usage, and logical flow.
+
+-> Organized all scenario-based programs systematically in the project structure.
+
+✅ Problems Covered
+
+- > Parking Lot Gate System 🚗
+
+- > Number Guessing Game 🎲
+
+- >Shopkeeper’s Discount Dashboard 🛍️
+
+- > School Bus Attendance System 🚍
+
+- > Phone Recharge Simulator 📱
+
+
+
+🔗 *Code Link:*  
+👉 [Day 11 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
