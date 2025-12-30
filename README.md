@@ -101,4 +101,4 @@ Organized all constructor and static concept programs systematically in the java
 -> Organized all data-modeling and relationship-based programs systematically in the java-oops-practice branch.
 
 🔗 *Code Link:*
-👉 [Day 11 – static, final, this, instanceof](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+👉 [Day 12 – Data Modeling, Association, Aggregation & Composition](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
