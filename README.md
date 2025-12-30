@@ -490,4 +490,38 @@ Problems Solved:
 
 
 🔗 *Code Link:*  
-👉 [Day 11 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+## 📅 Day 12 – LeetCode Practice
+
+**🚀 Focus: Strings, Two Pointers & Character Manipulation**
+
+Today, I worked on strengthening my string manipulation skills by solving commonly asked LeetCode problems. The focus was on two-pointer techniques, string traversal, and using built-in Java utilities to write clean and efficient solutions.
+
+🧠 Concepts Practiced
+
+-> String traversal and manipulation
+
+->Two-pointer technique
+
+->In-place array modification
+
+->Character frequency and sorting
+
+->Use of Java built-in methods (Arrays.sort, Arrays.equals, split, replaceAll)
+
+Writing clean, readable, and interview-ready Java code
+
+✅ LeetCode Problems Solved
+
+ - > 344. Reverse String – Reversed a character array in-place using two pointers
+
+- > 14. Longest Common Prefix – Identified the common prefix among multiple strings
+
+- > 242. Valid Anagram – Verified anagrams by sorting character arrays and comparing them
+
+- > 125. Valid Palindrome – Checked palindrome validity after cleaning and normalizing the string
+
+- > 58. Length of Last Word – Calculated the length of the last word using string splitting
+
