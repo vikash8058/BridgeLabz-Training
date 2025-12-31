@@ -525,3 +525,33 @@ Writing clean, readable, and interview-ready Java code
 
 - > 58. Length of Last Word – Calculated the length of the last word using string splitting
 
+
+## 📅 Day 13 – Scenario-Based Core Java and Leetcode Practice
+**(Focus: Arrays & loops Menu-driven programs Conditional logic)**
+
+✅ Problems Solved:
+
+- >Digital Watch Simulation ⏱️***
+    Used nested loops
+    Stopped at 13:00 using break
+
+- >Online Quiz Application 🧠
+  Asked 5 MCQs
+  Used arrays and switch
+
+- >Calculated score
+  Currency Exchange Kiosk 💱
+  Converted INR to other currencies
+  Used switch and do-while loop
+
+- >Bus Route Distance Tracker 🚌
+  Added distance per stop
+  Used while loop
+  Exit on user choice
+
+- >Festival Lucky Draw 🎉
+    Checked divisibility by 3 and 5
+    Used loops and continue
+
+🔗 *Code Link:*  
+👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
