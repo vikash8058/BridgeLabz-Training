@@ -555,3 +555,21 @@ Writing clean, readable, and interview-ready Java code
 
 🔗 *Code Link:*  
 👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+**📅 LeetCode Practice – Daily Progress**
+
+***🚀 Focus: Math, Number Manipulation & Basic Algorithms***
+
+Today, I practiced solving math and number-based LeetCode problems, focusing on clean logic, edge-case handling, and interview-oriented solutions in Java.
+
+✅ LeetCode Problems Solved (5)
+
+- > 389. Find the Difference – Identified the extra character using XOR logic
+
+- > 3099. Harshad Number – Checked divisibility using digit sum calculation
+
+- >GCD of Odd and Even Sums – Applied mathematical observation to compute GCD efficiently
+
+- >7. Reverse Integer – Reversed digits with proper overflow handling (32-bit constraints)
+
+- >204. Count Primes – Counted prime numbers using basic primality checking
