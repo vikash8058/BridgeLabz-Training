@@ -1,32 +1,29 @@
 package com.bankmanagement;
 
-public class Customer {
-	
-	//instance variable
-	protected int customerId;
-	protected String customerName;
-	protected Account account;
-	
-	//constructor to initialize instance variables
-	public Customer(int customerId, String customerName, Account account) {
-		this.customerId = customerId;
-		this.customerName = customerName;
+public class Customer
+{
+	private String name;
+	private Account account;
+
+	public Customer(String name, Account account)
+	{
+		this.name = name;
 		this.account = account;
 	}
-	
-	//method to deposit amount
-	void depositMoney(double amount) {
+
+	public void deposit(double amount)
+	{
 		account.deposit(amount);
 	}
-	
-	//method to withdraw amount
-	void withdrawMoney(double amount) {
+
+	public void withdraw(double amount)
+	{
 		account.withdraw(amount);
 	}
-	
-	//method to display balance
-	void showBalance() {
-		account.getBalance();
+
+	public void checkBalance()
+	{
+		System.out.print(name + " - ");
+		account.showBalance();
 	}
-	
 }

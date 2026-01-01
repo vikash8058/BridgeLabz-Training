@@ -1,25 +1,27 @@
 package com.bankmanagement;
 
-public class BankApp {
-	public static void main(String[] args) {
-		
-		SavingsAccount savingAccount=new SavingsAccount("733802010005004", 50000, 6);
-		savingAccount.calculateInterest();
-		
-		Customer customer1=new Customer(101,"Vishal Yadav",savingAccount);
-		customer1.showBalance();
-		customer1.depositMoney(23000);
-		customer1.withdrawMoney(10000);
-		
+public class BankApp
+{
+	public static void main(String[] args)
+	{
+		// Customer with Savings Account
+		SavingsAccount savings = new SavingsAccount(5000, 5);
+		Customer customer1 = new Customer("Rohan", savings);
+
+		customer1.deposit(2000);
+		customer1.withdraw(1500);
+		savings.calculateInterest();
+		customer1.checkBalance();
+
 		System.out.println();
-		
-		//create object of current account
-		CurrentAccount currentAccount=new CurrentAccount("733802010115045", 65000);
-		currentAccount.getBalance();
-		
-		
-		Customer customer2=new Customer(102, "Vikash Prajapati", currentAccount);
-		customer2.withdrawMoney(5000);
-		
+
+		// Customer with Current Account
+		CurrentAccount current = new CurrentAccount(3000);
+		Customer customer2 = new Customer("Amit", current);
+
+		customer2.deposit(1000);
+		customer2.withdraw(500);
+		customer2.checkBalance();
 	}
 }
+

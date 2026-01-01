@@ -1,42 +1,38 @@
 package com.bankmanagement;
 
-public class Account {
-	
-	//instance variable
-	protected String accountNumber;
+public class Account
+{
 	protected double balance;
-	
-	//constructor to initialize instance variables
-	public Account(String accountNumber, double balance) {
-		this.accountNumber=accountNumber;
-		this.balance=balance;
+
+	public Account(double balance)
+	{
+		this.balance = balance;
 	}
-	
-	//method to deposit amount
-	void deposit(double amount) {
-		if(amount>0) {
-			balance+=amount;
-			System.out.println("Amount successfully creadited: "+amount);
-			System.out.println("Your current balance is: "+this.balance);
-		}
-		else {
-			System.out.println("Invalid amount");
+
+	public void deposit(double amount)
+	{
+		if (amount > 0)
+		{
+			balance += amount;
+			System.out.println("Deposited: ₹" + amount);
 		}
 	}
-	
-	//method to withdraw amount
-	void withdraw(double amount) {
-		if(amount>0 && amount<=balance) {
-			balance-=amount;
-			System.out.println("Amount successfully debited: "+amount);
-			System.out.println("Your current balance is: "+this.balance);
-		}else {
-			System.out.println("Invalid amount or insufficient balance");
+
+	public void withdraw(double amount)
+	{
+		if (amount > 0 && amount <= balance)
+		{
+			balance -= amount;
+			System.out.println("Withdrawn: ₹" + amount);
+		}
+		else
+		{
+			System.out.println("Insufficient balance.");
 		}
 	}
-	
-	//method to display balance
-	void getBalance() {
-		System.out.println("Your current balance is: "+this.balance);
+
+	public void showBalance()
+	{
+		System.out.println("Current Balance: ₹" + balance);
 	}
 }

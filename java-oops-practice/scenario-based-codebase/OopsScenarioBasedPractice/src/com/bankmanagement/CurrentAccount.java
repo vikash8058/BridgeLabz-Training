@@ -1,8 +1,9 @@
 package com.bankmanagement;
 
-public class CurrentAccount extends Account{
-	
-	public CurrentAccount(String accountNumber, double balance) {
-		super(accountNumber,balance);
+public class CurrentAccount extends Account
+{
+	public CurrentAccount(double balance)
+	{
+		super(balance);
 	}
 }
