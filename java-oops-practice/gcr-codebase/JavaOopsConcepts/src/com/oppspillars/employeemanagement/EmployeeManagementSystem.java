@@ -23,8 +23,10 @@ public class EmployeeManagementSystem {
         employeeList.add(emp1);
         employeeList.add(emp2);
 
+        
         // Processing employees using Employee reference
         for (Employee emp : employeeList) {
+        	System.out.println("Department    : "+((Department) emp).getDepartmentDetails());
             emp.displayDetails();
         }
     }
