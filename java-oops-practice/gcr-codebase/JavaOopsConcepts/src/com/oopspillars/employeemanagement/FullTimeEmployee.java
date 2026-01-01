@@ -1,4 +1,4 @@
-package com.oppspillars.employeemanagement;
+package com.oopspillars.employeemanagement;
 
 //Full-time employee with fixed salary
 public class FullTimeEmployee extends Employee implements Department {

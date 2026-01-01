@@ -1,4 +1,4 @@
-package com.oppspillars.employeemanagement;
+package com.oopspillars.employeemanagement;
 
 //Part-time employee paid based on work hours
 public class PartTimeEmployee extends Employee implements Department {

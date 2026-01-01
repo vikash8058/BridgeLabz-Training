@@ -1,4 +1,4 @@
-package com.oppspillars.employeemanagement;
+package com.oopspillars.employeemanagement;
 
 //Abstract class Employee
 public abstract class Employee {

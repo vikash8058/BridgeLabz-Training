@@ -1,4 +1,4 @@
-package com.oppspillars.employeemanagement;
+package com.oopspillars.employeemanagement;
 
 //Interface representing department-related operations
 public interface Department {
