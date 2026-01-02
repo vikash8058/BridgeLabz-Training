@@ -1,6 +1,6 @@
 package com.vehiclerental;
 
-// Car class inheriting Vehicle
+//Car class inheriting Vehicle
 public class Truck extends Vehicle implements Rentable {
 
 	// Constructor specific to Car

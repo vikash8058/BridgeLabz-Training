@@ -1,6 +1,6 @@
 package com.vehiclerental;
 
-// base class
+//base class
 public class Vehicle {
 
 	// instance variable

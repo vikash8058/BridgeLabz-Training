@@ -1,6 +1,6 @@
 package com.vehiclerental;
 
-// Main class to demonstrate polymorphism
+//Main class to demonstrate polymorphism
 public class VehicleRentalApplication {
 
 	public static void main(String[] args) {
