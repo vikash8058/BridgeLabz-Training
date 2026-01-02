@@ -1,6 +1,6 @@
 package com.vehiclerental;
 
-//Customer class
+// Customer class
 public class Customer {
 
 	private String customerName;
