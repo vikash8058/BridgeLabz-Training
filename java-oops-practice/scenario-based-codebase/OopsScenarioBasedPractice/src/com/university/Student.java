@@ -1,6 +1,6 @@
 package com.university;
 
-//Base class Student
+// Base class Student
 public class Student {
 
 	// Encapsulated fields

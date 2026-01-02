@@ -1,6 +1,6 @@
 package com.university;
 
-//Course class
+// Course class
 public class Course {
 
 	private String courseCode;

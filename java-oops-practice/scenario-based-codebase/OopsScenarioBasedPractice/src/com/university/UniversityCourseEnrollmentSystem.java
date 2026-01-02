@@ -1,6 +1,6 @@
 package com.university;
 
-//Main class
+// Main class
 public class UniversityCourseEnrollmentSystem {
 
  public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package com.university;
 
-//Faculty class responsible for grading
+// Faculty class responsible for grading
 public class Faculty implements Graded {
 
 	private String facultyName;

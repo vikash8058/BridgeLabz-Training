@@ -1,6 +1,6 @@
 package com.university;
 
-//Enrollment class connecting student and course
+// Enrollment class connecting student and course
 public class Enrollment {
 
 	private Student student;
