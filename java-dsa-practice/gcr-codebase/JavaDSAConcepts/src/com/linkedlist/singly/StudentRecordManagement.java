@@ -65,9 +65,10 @@ public class StudentRecordManagement {
 		Node newNode = new Node(rollNumber, name, age, grade);
 		Node temp=head;
 		
-		int count=0;
-		while((count+1)!=position && temp!=null) {
+		int count=1;
+		while(count<position-1 && temp!=null) {
 			temp=temp.next;
+			count++;
 		}
 		
 		if (temp==null) {
@@ -75,6 +76,7 @@ public class StudentRecordManagement {
 			return;
 		}
 		
+		newNode.next=temp.next;
 		temp.next=newNode;
 		System.out.println("Student added at position: "+position);
 	}
@@ -169,15 +171,19 @@ public class StudentRecordManagement {
 
         list.addAtbeginning(101, "Rahul", 20, 'A');
         list.addAtEnd(102, "Priya", 21, 'B');
+        list.displayAll();
+        
         list.addAtPosition(2, 103, "Amit", 19, 'A');
-
+        
         list.displayAll();
 
-        list.searchByRollNumber(102);
-        list.updateGrade(102, 'A');
-        list.deleteByRollNumber(101);
-
-        list.displayAll();
+        
+//
+//        list.searchByRollNumber(102);
+//        list.updateGrade(102, 'A');
+//        list.deleteByRollNumber(101);
+//
+//        list.displayAll();
         input.close();
     }
 }	
