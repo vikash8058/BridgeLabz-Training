@@ -62,4 +62,4 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
 
 🔗 Code Link:
-[👉 Day 16 – Stack, Queue & Hashing (DSA)]()
+[👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
