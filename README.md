@@ -541,4 +541,4 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Focused on writing clean, optimized, and well-structured code following DSA best practices.
 
 🔗 Code Link:
-[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithm)
