@@ -256,3 +256,22 @@ Designing classes, methods, constructors, and access modifiers
 
 🔗 Code Link:
 👉 [Day 17 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 18 – Java OOPS: Scenario-Based Problem Solving
+**(Date: 06-01-2026)**
+**(Focus: Real-World Application of OOPS Concepts)**
+
+- >Practiced story-driven Java scenarios including PetPal, EventEase, EduMentor, and FitTrack.
+
+- >Applied Encapsulation to protect sensitive data like pet mood, user health details, pricing, and quiz answers.
+
+- >Used Inheritance to model hierarchies such as Dog/Cat/Bird, BirthdayEvent/ConferenceEvent, and Learner/Instructor.
+
+- >Implemented Abstraction using interfaces like IInteractable, ISchedulable, ICertifiable, and ITrackable.
+
+- >Demonstrated Polymorphism through varying behaviors like makeSound(), schedule(), generateCertificate(), and calculateCalories().
+
+- >Focused on clean, modular, and reusable code following core OOPS best practices.
+
+🔗 Code Link:
+👉 [Day 18 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
