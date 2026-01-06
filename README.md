@@ -573,3 +573,18 @@ Today, I practiced solving math and number-based LeetCode problems, focusing on 
 - >7. Reverse Integer – Reversed digits with proper overflow handling (32-bit constraints)
 
 - >204. Count Primes – Counted prime numbers using basic primality checking
+
+
+## 📅 Day 18 – LeetCode Practice
+**(Date: 06-01-2026)**
+**Focus: Linked List & Pointer Manipulation**
+Today, I shifted focus to Linked Lists, mastering pointer reassignment and efficient traversal techniques to modify list structures in-place.
+Concepts Practiced
+Pointer Reassignment: Swapping node connections without changing internal values.
+Dummy Node Technique: Simplifying edge cases for head-level modifications.
+Fast & Slow Pointers: Finding midpoints and list properties in a single pass (O(n))
+Memory Efficiency: Achieving O(1)
+ space complexity by rearranging existing nodes.
+✅ LeetCode Problems Solved
+- >Swap Nodes in Pairs (Medium): Swapped every two adjacent nodes using iterative pointer adjustment and a dummy head.
+- >Middle of the Linked List (Easy): Located the center node (or second middle) using the "Tortoise and Hare" two-pointer approach.
