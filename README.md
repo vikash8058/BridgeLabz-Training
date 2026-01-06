@@ -595,3 +595,6 @@ Memory Efficiency: Achieving O(1)
 ✅ LeetCode Problems Solved
 - >Swap Nodes in Pairs (Medium): Swapped every two adjacent nodes using iterative pointer adjustment and a dummy head.
 - >Middle of the Linked List (Easy): Located the center node (or second middle) using the "Tortoise and Hare" two-pointer approach.
+
+🔗 *Code Link:*  
+👉 [Day 18 – LeetCode Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
