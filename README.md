@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 2
 ## 📅 Day 1 – Java OOPS: Class & Object  
 **(Date: 26-Dec-2025)**
@@ -278,7 +279,8 @@ Designing classes, methods, constructors, and access modifiers
 👉 [Day 10 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 ## 📅 Day 11 – Java OOPS: Scenario-Based Problem Solving
-**(Focus: Practical OOPS Applications)**
+**(Date: 07-01-2026)**
+**(Focus: Real-World Application of OOPS Concepts)**
 
 - >Implemented real-world Java scenarios: ParkEase, LoanBuddy, and BookBazaar.
 
