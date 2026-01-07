@@ -1,4 +1,4 @@
-# Week 3
+# Week 3: Data Structures & Algorithm
 ## 📅 Day 1 – Data Structures & Algorithms: Linked List
 **(Date: 02-01-2026)**
 **(Focus: DSA Fundamentals – Linked List Variants)**
