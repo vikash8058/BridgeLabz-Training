@@ -525,6 +525,8 @@ Writing clean, readable, and interview-ready Java code
 
 - > 58. Length of Last Word – Calculated the length of the last word using string splitting
 
+🔗 *Code Link:*  
+👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ## 📅 Day 13 – Scenario-Based Core Java and Leetcode Practice
 **(Focus: Arrays & loops Menu-driven programs Conditional logic)**
@@ -554,7 +556,7 @@ Writing clean, readable, and interview-ready Java code
     Used loops and continue
 
 🔗 *Code Link:*  
-👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 13 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 **📅 LeetCode Practice – Daily Progress**
 
@@ -575,7 +577,7 @@ Today, I practiced solving math and number-based LeetCode problems, focusing on 
 - >204. Count Primes – Counted prime numbers using basic primality checking
 
 
-## 📅 Day 18 – LeetCode Practice
+## 📅 Day 13 – LeetCode Practice
 **(Date: 06-01-2026)**
 **Focus: Linked List & Pointer Manipulation**
 Today, I shifted focus to Linked Lists, mastering pointer reassignment and efficient traversal techniques to modify list structures in-place.
@@ -597,4 +599,4 @@ Memory Efficiency: Achieving O(1)
 - >Middle of the Linked List (Easy): Located the center node (or second middle) using the "Tortoise and Hare" two-pointer approach.
 
 🔗 *Code Link:*  
-👉 [Day 18 – LeetCode Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 13 – LeetCode Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
