@@ -222,7 +222,7 @@ BridgeLabz-Training
 
 
 # Day 9 – Core Java Scenario Based Problem Statements
-
+**(Date: 24-Dec-2025)**
 ## Overview
 Day 9 focuses on **real-world scenario based programming** using Core Java along with **basic algorithmic problem solving using LeetCode**.  
 The goal of this day is to strengthen **logical thinking, control flow, and problem-solving skills**.
@@ -320,6 +320,7 @@ By completing Day 9, I achieved:
 ✔️ Code tested with multiple inputs
 
 ## 📅 Day 10 – Core Java & LeetCode Practice
+**(Date: 26-Dec-2025)**
 **🚀 Focus: Arrays, Two Pointers, Binary Search & In-place Operations**
 
 Today, I worked on strengthening my Core Java and DSA fundamentals by solving array-based problems using optimized and clean logic. The focus was on writing efficient solutions, understanding in-place operations, and applying the right algorithmic approach as expected in interviews.
@@ -358,7 +359,7 @@ Merge Sorted Array – Merged two sorted arrays in-place using the backward two-
 
 
 ## 📅 Day 11 – Core Java & LeetCode Practice ##
-
+**(Date: 27-Dec-2025)**
 **🚀 Focus: Arrays, Bit Manipulation & Optimized In-place Algorithms**
 
 Today, I focused on strengthening my problem-solving skills by working on classic array problems that are frequently asked in interviews. The emphasis was on writing optimal solutions, using O(1) space, understanding bit manipulation, and applying efficient in-place techniques in Java.
@@ -397,8 +398,7 @@ Move Zeroes – Moved all zeros to the end while maintaining order using in-plac
 ✔ All code is clean, readable, and LeetCode-accepted
 
 
-## 📅 Day 11 – Core Java: Scenario-Based Problem Solving ##
-
+## 📅 Core Java: Scenario-Based Problem Solving ##
 **(Date: 29-Dec-2025)**
 ***(Focus: Loops, Conditional Logic & Real-World Scenarios)***
 
@@ -454,8 +454,7 @@ Problems Solved:
 ✔ All solutions are LeetCode-accepted, optimized for time and space, and written with clean, readable Java code.
 
 ## 📅 Day 12 – Core Java: Scenario-Based Problem Solving ##
-
-**(Date: 30-Dec-2025)**
+**(Date: 29-Dec-2025)**
 **(Focus: Arrays, Loops, Menu Logic & Real-World Scenarios)**
 
 -> Solved 5 scenario-based Core Java problems focusing on array handling and loop-based logic.
@@ -493,8 +492,7 @@ Problems Solved:
 👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 
-## 📅 Day 12 – LeetCode Practice
-
+## 📅 LeetCode Practice
 **🚀 Focus: Strings, Two Pointers & Character Manipulation**
 
 Today, I worked on strengthening my string manipulation skills by solving commonly asked LeetCode problems. The focus was on two-pointer techniques, string traversal, and using built-in Java utilities to write clean and efficient solutions.
@@ -529,6 +527,7 @@ Writing clean, readable, and interview-ready Java code
 👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ## 📅 Day 13 – Scenario-Based Core Java and Leetcode Practice
+**(Date: 30-Dec-2025)**
 **(Focus: Arrays & loops Menu-driven programs Conditional logic)**
 
 ✅ Problems Solved:
@@ -577,7 +576,7 @@ Today, I practiced solving math and number-based LeetCode problems, focusing on 
 - >204. Count Primes – Counted prime numbers using basic primality checking
 
 
-## 📅 Day 13 – LeetCode Practice
+## 📅 Day 14 – LeetCode Practice
 **(Date: 06-01-2026)**
 **Focus: Linked List & Pointer Manipulation**
 Today, I shifted focus to Linked Lists, mastering pointer reassignment and efficient traversal techniques to modify list structures in-place.
@@ -599,4 +598,4 @@ Memory Efficiency: Achieving O(1)
 - >Middle of the Linked List (Easy): Located the center node (or second middle) using the "Tortoise and Hare" two-pointer approach.
 
 🔗 *Code Link:*  
-👉 [Day 13 – LeetCode Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 14 – LeetCode Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
