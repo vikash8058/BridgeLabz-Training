@@ -399,7 +399,6 @@ Move Zeroes – Moved all zeros to the end while maintaining order using in-plac
 
 
 ## 📅 Core Java: Scenario-Based Problem Solving ##
-**(Date: 29-Dec-2025)**
 ***(Focus: Loops, Conditional Logic & Real-World Scenarios)***
 
 -> Solved 5 scenario-based Core Java problems to strengthen logical thinking and control-flow concepts.
