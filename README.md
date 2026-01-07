@@ -93,7 +93,7 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 
 ## 📅 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
-**Date: 06-01-2026)**
+**(Date: 06-01-2026)**
 **(Focus: String Handling, Searching & File Handling)**
 
 - > Studied StringBuffer and StringBuilder to understand mutable string operations and performance differences.
@@ -106,3 +106,5 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+
