@@ -11,7 +11,7 @@ public class CountOccurrenceOfWord {
 		try {
 			BufferedReader bufferReader = new BufferedReader(new InputStreamReader(System.in));
 			// defining the path of file which i want to read
-			String filePath = "D:/HCL/Java is powerful.txt";
+			String filePath = "D://Java is powerful.txt";
 
 			//taking the input for target word
 			System.out.println("Enter the word which you want to count the occurence: ");
