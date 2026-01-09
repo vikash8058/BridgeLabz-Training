@@ -107,4 +107,20 @@ Circular Linked List – last node links back to the first node forming a loop.
 🔗 Code Link:
 [👉 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
+## 📅 Day 5 – Data Structures: Time & Space Complexity
+**(Date: 07-01-2026)**
+**(Focus: Analyzing Algorithm Efficiency)**
+
+- > Studied Time Complexity to understand how algorithm execution time grows with input size.
+
+- > Learned Space Complexity to analyze memory usage of algorithms during execution.
+
+- > Explored common Big-O notations such as O(1), O(n), O(n²), and O(log n).
+
+- > Compared different algorithms based on efficiency, scalability, and resource usage.
+
+- > Focused on writing optimized and efficient code by choosing appropriate algorithms and data structures.
+
+🔗 Code Link:
+[👉 Day 5 – Data Structures: Time & Space Complexity](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
 
