@@ -1,4 +1,5 @@
 package com.bookbazar;
+
 public class BookBazaarApp {
 
     public static void main(String[] args) {
