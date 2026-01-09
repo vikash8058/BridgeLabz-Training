@@ -1,4 +1,5 @@
 package com.algorithmruntimeanalysis;
+
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.TreeSet;
@@ -60,16 +61,13 @@ public class DataStructureSearchComparison {
 		// Displaying results
 		System.out.println("\nSearch Results");
 		System.out.println("Array Found    : " + arrayResult);
-		System.out.println("Array Time    : " +
-				(arrayEndTime - arrayStartTime) + " ns");
+		System.out.println("Array Time    : " + (arrayEndTime - arrayStartTime) + " ns");
 
 		System.out.println("HashSet Found : " + hashSetResult);
-		System.out.println("HashSet Time  : " +
-				(hashSetEndTime - hashSetStartTime) + " ns");
+		System.out.println("HashSet Time  : " + (hashSetEndTime - hashSetStartTime) + " ns");
 
 		System.out.println("TreeSet Found : " + treeSetResult);
-		System.out.println("TreeSet Time  : " +
-				(treeSetEndTime - treeSetStartTime) + " ns");
+		System.out.println("TreeSet Time  : " + (treeSetEndTime - treeSetStartTime) + " ns");
 
 		input.close();
 	}
