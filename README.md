@@ -151,5 +151,7 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 - > Built TextEditor functionality using Stacks to support undo and redo operations efficiently.
 
+- > TrafficManager simulates a smart city roundabout using a Circular Linked List for vehicle flow and a Queue to manage waiting vehicles.
+
 🔗 Code Link:
 [👉 Day 7 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com)
