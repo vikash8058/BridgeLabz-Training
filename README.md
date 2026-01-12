@@ -1073,7 +1073,7 @@ Circular Linked List – last node links back to the first node forming a loop.
 [👉 Day 6 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com)
 
 ## 📅 Day 7 – Data Structures: Scenario-Based Practice
-**(Date: 11-01-2026)**
+**(Date: 12-01-2026)**
 **(Focus: Real-World Queue, Linked List & Stack Applications)**
 
 - > Worked on real-world DSA scenarios using Queues, HashMaps, Doubly Linked Lists, and Stacks.
