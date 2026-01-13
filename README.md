@@ -330,7 +330,7 @@ Designing classes, methods, constructors, and access modifiers
 [👉 Day 13 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 ## 📅 Day 14 – Java OOPS: Scenario-Based Practice
-**(Date: 13-01-2026)**
+**(Date: 12-01-2026)**
 **(Focus: Real-World System Design Using OOPS)**
 
 - >Worked on OOPS-based scenarios including HomeNest, BudgetWise, and GameBox.
