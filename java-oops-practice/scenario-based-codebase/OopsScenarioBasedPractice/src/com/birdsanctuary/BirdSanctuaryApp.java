@@ -1,24 +1,121 @@
 package com.birdsanctuary;
 
+import java.util.Scanner;
+
 public class BirdSanctuaryApp {
 
 	public static void main(String[] args) {
 
 		SanctuaryManager manager = new SanctuaryManager();
+		Scanner sc = new Scanner(System.in);
 
-		manager.addBird(new Eagle("Rocky", 1, "Golden Eagle"));
-		manager.addBird(new Duck("Daffy", 2, "Mallard"));
-		manager.addBird(new Penguin("Pingu", 3, "Emperor Penguin"));
-		manager.addBird(new Seagull("Sky", 4, "Herring Gull"));
-		manager.addBird(new Kiwi("Kiki", 5, "Brown Kiwi"));
-		manager.addBird(new Ostrich("Ozzy", 6, "African Ostrich"));
+		int choice;
 
-		manager.displayAllBirds();
-		manager.displayFlyingBirds();
-		manager.displaySwimmingBirds();
+		do {
+			System.out.println("\nWelcome to EcoWing Bird Sanctuary");
+			System.out.println("1. Add Bird");
+			System.out.println("2. Display All Birds");
+			System.out.println("3. Display All Flying Birds");
+			System.out.println("4. Display All Swimming Birds");
+			System.out.println("5. Display Both Flying & Swimming Birds");
+			System.out.println("6. Delete Bird by ID");
+			System.out.println("7. Sanctuary Report");
+			System.out.println("8. Exit");
 
-		manager.removeBirdById(5);
+			System.out.print("Enter your choice: ");
+			choice = sc.nextInt();
+			sc.nextLine(); // consume newline
 
-		manager.sanctuaryReport();
+			switch (choice) {
+
+			case 1:
+				System.out.print("Enter Bird Name: ");
+				String name = sc.nextLine();
+
+				System.out.print("Enter Bird ID: ");
+				int id = sc.nextInt();
+				sc.nextLine();
+
+				System.out.print("Enter Species: ");
+				String species = sc.nextLine();
+
+				System.out.println("Select Bird Type:");
+				System.out.println("1. Eagle");
+				System.out.println("2. Duck");
+				System.out.println("3. Penguin");
+				System.out.println("4. Seagull");
+				System.out.println("5. Kiwi");
+				System.out.println("6. Ostrich");
+
+				int type = sc.nextInt();
+
+				Bird bird = null;
+
+				switch (type) {
+				case 1:
+					bird = new Eagle(name, id, species);
+					break;
+				case 2:
+					bird = new Duck(name, id, species);
+					break;
+				case 3:
+					bird = new Penguin(name, id, species);
+					break;
+				case 4:
+					bird = new Seagull(name, id, species);
+					break;
+				case 5:
+					bird = new Kiwi(name, id, species);
+					break;
+				case 6:
+					bird = new Ostrich(name, id, species);
+					break;
+				default:
+					System.out.println("Invalid bird type.");
+				}
+
+				if (bird != null) {
+					manager.addBird(bird);
+				}
+				break;
+
+			case 2:
+				manager.displayAllBirds();
+				break;
+
+			case 3:
+				manager.displayFlyingBirds();
+				break;
+
+			case 4:
+				manager.displaySwimmingBirds();
+				break;
+
+			case 5:
+				System.out.println("\n--- Birds that Fly & Swim ---");
+				manager.displayFlyingAndSwimmingBirds();
+				break;
+
+			case 6:
+				System.out.print("Enter Bird ID to delete: ");
+				int deleteId = sc.nextInt();
+				manager.removeBirdById(deleteId);
+				break;
+
+			case 7:
+				manager.sanctuaryReport();
+				break;
+
+			case 8:
+				System.out.println("Exiting EcoWing Bird Sanctuary. Goodbye!");
+				break;
+
+			default:
+				System.out.println("Invalid choice. Try again.");
+			}
+
+		} while (choice != 8);
+
+		sc.close();
 	}
 }

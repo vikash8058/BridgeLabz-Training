@@ -70,6 +70,15 @@ public class SanctuaryManager {
 		System.out.println("Bird not found with ID: " + id);
 	}
 
+	// display birds that can both fly and swim
+	public void displayFlyingAndSwimmingBirds() {
+		for (Bird b : birds) {
+			if (b instanceof Flyable && b instanceof Swimmable) {
+				System.out.println(b.getName());
+			}
+		}
+	}
+
 	// method to display sanctuary report
 	public void sanctuaryReport() {
 		int fly = 0, swim = 0, both = 0, neither = 0;
