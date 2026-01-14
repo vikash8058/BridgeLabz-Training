@@ -945,6 +945,22 @@ Designing classes, methods, constructors, and access modifiers
 🔗 Code Link:
 [👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+## 📅 Day 15 – Java OOPS: Scenario-Based Practice
+**(Date: 13-01-2026)**
+**(Focus: Real-World System Design Using OOPS)**
+
+- >Worked on OOPS-based scenarios including PayXpress (Utility Bill Payment System) and Bird Sanctuary Management System.
+
+- >Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model bill payments, reminders, and diverse bird behaviors.
+
+- >Used interfaces and operators for payment processing, late fee calculation, and behavioral capabilities like flying and swimming.
+
+- >Focused on clean, modular, and reusable code following core Java OOPS best practices.
+  
+🔗 Code Link:
+[👉 Day 15 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+
 # Week 3: Data Structures & Algorithm
 ## 📅 Day 1 – Data Structures & Algorithms: Linked List
 **(Date: 02-01-2026)**
