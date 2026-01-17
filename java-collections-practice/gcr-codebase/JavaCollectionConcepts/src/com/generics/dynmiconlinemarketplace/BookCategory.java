@@ -1,0 +1,9 @@
+package com.generics.dynmiconlinemarketplace;
+
+public class BookCategory implements Category{
+
+	@Override
+	public String getCategoryName() {
+		return "Books";
+	}
+}
