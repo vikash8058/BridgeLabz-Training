@@ -223,3 +223,20 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 11 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
+
+## 📅 Day 12 – Data Structures & Algorithms: Scenario-Based Practice
+**(Date: 19-01-2026)**
+**(Focus: Sorting Algorithms for Real-World Data Processing)**
+
+- > Worked on DSA-based scenarios using Merge Sort, Quick Sort, and Bubble Sort to handle datasets of varying sizes.
+
+- > Applied Merge Sort in EduResults to merge pre-sorted district-wise student records into a stable state-level rank list.
+
+- > Used Quick Sort in FlashDealz to efficiently sort large, unsorted product data by discount during flash sales.
+
+- > Implemented Bubble Sort in FitnessTracker for small, frequently updated datasets requiring real-time ranking.
+
+- > Focused on selecting the appropriate sorting algorithm based on data size, stability, and performance needs.
+
+🔗 Code Link:
+[👉 Day 12 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
