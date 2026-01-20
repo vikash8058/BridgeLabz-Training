@@ -977,6 +977,23 @@ Designing classes, methods, constructors, and access modifiers
 🔗 Code Link:
 [👉 Day 16 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+## 📅 Day 17 – Java OOPS: Scenario-Based Practice
+**(Date: 19-01-2026)**
+**(Focus: Object-Oriented Design with Collections & Encapsulation)**
+
+- >Worked on an OOPS-based Address Book System for managing contacts in a digital application.
+
+- >Applied Classes, Objects, Constructors, and Encapsulation to model contacts with secure data access.
+
+- >Used collections (ArrayList) to store, search, update, delete, and sort contacts efficiently.
+
+- >Implemented features like duplicate validation, city/state-based search, and alphabetical listing.
+
+- >Focused on clean, modular, and reusable code, with optional composition for address management.
+
+🔗 Code Link:
+[👉 Day 17 – Scenario-Based OOPS Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
 
 # Week 3: Data Structures & Algorithm
 ## 📅 Day 1 – Data Structures & Algorithms: Linked List
