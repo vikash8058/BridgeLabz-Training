@@ -1239,6 +1239,23 @@ Circular Linked List – last node links back to the first node forming a loop.
 🔗 Code Link:
 [👉 Day 12 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
 
+## 📅 Day 13 – Data Structures & Algorithms: Scenario-Based Practice
+**(Date: 20-01-2026)**
+**(Focus: Sorting Algorithms for Real-World Applications)**
+
+- > Implemented Insertion Sort in MovieTime to insert new movie showtimes into an almost-sorted schedule.
+
+- > Applied Merge Sort in FoodFest to merge multiple zone-wise, pre-sorted footfall datasets into one stable master list.
+
+- > Used Quick Sort in GamerZone to rank large, dynamic player score data efficiently.
+
+- > Focused on choosing sorting algorithms based on data size, order, and stability requirements.
+
+- > Strengthened understanding of real-time data handling and performance-driven sorting.
+
+
+🔗 Code Link:
+[👉 Day 13 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
 
 # Week 4 : Collection Interface
 
