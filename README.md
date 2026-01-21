@@ -54,7 +54,7 @@
 [👉 Day 3 – Java File Handling & Streams Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
 
 ## 📅 Day 4 – Java: Exception Handling
-**(Date: 20-02-2026)**
+**(Date: 20-01-2026)**
 **(Focus: Handling Runtime Errors and Building Robust Applications)**
 
 - > Studied Java Exception Handling to manage runtime errors and prevent abnormal program termination.
