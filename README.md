@@ -226,7 +226,7 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 
 ## 📅 Day 12 – DSA: Tree Data Structure
-**(Date: 29-01-2026)**
+**(Date: 19-01-2026)**
 **(Focus: Hierarchical Data Representation and Tree Traversal Techniques)**
 
 - > Studied the Tree data structure to understand hierarchical data representation and non-linear data organization.
