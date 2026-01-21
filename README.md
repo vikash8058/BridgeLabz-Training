@@ -1222,8 +1222,25 @@ Circular Linked List – last node links back to the first node forming a loop.
 🔗 Code Link:
 [👉 Day 11 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
 
-## 📅 Day 12 – Data Structures & Algorithms: Scenario-Based Practice
+## 📅 Day 12 – DSA: Tree Data Structure
 **(Date: 19-01-2026)**
+**(Focus: Hierarchical Data Representation and Tree Traversal Techniques)**
+
+- > Studied the Tree data structure to understand hierarchical data representation and non-linear data organization.
+
+- > Learned the fundamentals of Binary Trees and Binary Search Trees (BST), including node relationships such as parent, child, and subtree.
+
+- > Explored BST operations like insertion, searching, and traversal to maintain ordered data efficiently.
+
+- > Practiced implementing real-world tree-based models, such as company hierarchy representation and file system traversal.
+
+- > Focused on strengthening recursive thinking and depth-first traversal (DFS) concepts for efficient tree processing.
+
+🔗 Code Link: 
+[👉Day 12- Tree Data Structure Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/tree)
+
+**📅Scenario-Based Practice**
+
 **(Focus: Sorting Algorithms for Real-World Data Processing)**
 
 - > Worked on DSA-based scenarios using Merge Sort, Quick Sort, and Bubble Sort to handle datasets of varying sizes.
@@ -1238,6 +1255,7 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 12 – DSA Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/sorting)
+
 
 ## 📅 Day 13 – Data Structures & Algorithms: Scenario-Based Practice
 **(Date: 20-01-2026)**
