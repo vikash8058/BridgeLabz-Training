@@ -15,7 +15,7 @@ public class ExtractEmailAddress {
 		Pattern pattern=Pattern.compile(regex);
 		Matcher matcher=pattern.matcher(emailText);
 		while(matcher.find()) {
-			System.out.println(matcher.group());
+			System.out.println(matcher.group());		
 		}
 	}
 }
