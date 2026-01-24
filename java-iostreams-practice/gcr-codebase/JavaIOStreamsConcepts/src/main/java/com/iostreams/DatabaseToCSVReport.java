@@ -13,9 +13,9 @@ import java.io.IOException;
 public class DatabaseToCSVReport {
 
 	// Database credentials
-	private static final String DB_URL = "jdbc:mysql://localhost:3306/companydb";
+	private static final String DB_URL = "jdbc:mysql://localhost:3306/employee_db";
 	private static final String DB_USER = "root";
-	private static final String DB_PASSWORD = "root";
+	private static final String DB_PASSWORD = "savi2026";
 
 	public static void main(String[] args) {
 
