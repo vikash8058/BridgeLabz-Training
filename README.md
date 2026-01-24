@@ -1416,3 +1416,23 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link: 
 [👉 Day 5 – Regex & JUnit Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com)
+
+# Week 5: Java IOStreams 
+
+## 📅 Day 1 – Java File Handling: CSV Data Processing
+**(Date: 23-01-2026)**
+**Focus: CSV Handling from Basics to Advanced Scenarios**
+
+- > Practiced reading, writing, and counting records in CSV files using structured data formats.
+
+- > Implemented filtering, searching, updating, and sorting CSV records based on business rules.
+
+- > Worked on data validation using regex, duplicate detection, and conversion of CSV data into Java objects.
+
+- > Handled advanced operations like merging multiple CSV files and processing large CSV files efficiently in chunks.
+
+- > Explored real-world integrations including database-to-CSV reporting, JSON ↔ CSV conversion, and encrypting/decrypting sensitive CSV fields.
+
+🔗 Code Link: 
+[👉 Day 1 – CSV Data Handling Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/main/java/com/iostreams)
+
