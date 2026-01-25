@@ -86,3 +86,39 @@
 
 🔗 Code Link: 
 [👉 Day 5 – Regex & JUnit Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com)
+
+## 📅 Day 6 – Java Collections & Core Java: Reflection and Annotations
+**(Date: 22-01-2026)**
+**(Focus: Runtime Metadata & Dynamic Behavior in Java)**
+
+- > Studied Java Reflection to inspect classes, methods, fields, and constructors at runtime.
+
+- > Learned how to access and invoke methods dynamically and analyze class metadata using the Reflection API.
+
+- > Explored Java Annotations to add metadata to classes, methods, and fields.
+
+- > Understood the use of custom annotations and how they are processed at runtime using reflection.
+
+- > Focused on using reflection and annotations for framework-level features, clean design, and advanced Java use cases.
+
+🔗 Code Link:
+[👉 Day 6 – Reflection & Annotations Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com)
+
+## 📅 Day 7 – Java Advanced: Scenario-Based Practice (Collections, I/O, Regex, Generics)
+**(Date: 23-01-2026)**
+**(Focus: Real-World Data Processing using Core Java APIs)**
+
+- > Worked on real-world Java scenarios integrating Collections, Generics, I/O Streams, Regex, and Exception Handling.
+
+- > Implemented ResumeAnalyzer to read resume files, extract contact details and skills using regex, and organize candidates using maps and sorted lists.
+
+- > Built TravelLog using object serialization and collections to store trips, analyze travel data, and generate summaries.
+
+- > Designed FeedbackGuru to process feedback files, extract ratings via regex, and categorize feedback using generic data structures.
+
+- > Developed tools like CodeRepoCleaner and ExamScanner to scan files, validate formats, organize data, and rank results efficiently.
+
+- > Focused on writing robust, scalable, and modular Java applications using streams, collections, and proper error handling.
+
+🔗 Code Link:
+[👉 Day 7 – Advanced Java Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarioBasedPractice/src/com/day1)
