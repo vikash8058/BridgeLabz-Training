@@ -122,3 +122,22 @@
 
 🔗 Code Link:
 [👉 Day 7 – Advanced Java Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarioBasedPractice/src/com/day1)
+
+## 📅 Day 8 – Java Collections: Scenario-Based Practice
+**(Date: 24-01-2026)**
+**(Focus: Real-World Data Processing using Collections, I/O & Regex)**
+
+- > Worked on advanced Java collection-based scenarios integrating I/O Streams, Regex, Generics, and Custom Exceptions.
+
+- > Implemented MedInventory to process hospital inventory CSV files, detect expired items, remove duplicates, and track low stock levels.
+
+- > Built ChatLogParser to analyze chat logs using regex, group messages by user, and filter idle conversations with sorted outputs.
+
+- > Developed SongVault to manage a personal music library by extracting song metadata, grouping by genre, and filtering using streams.
+
+- > Created tools like ExamResultUploader and DealTracker to validate CSV/text data, calculate rankings, and manage discounts efficiently.
+
+- > Focused on writing robust, scalable, and modular Java applications using Maps, Sets, Lists, PriorityQueue, and Generics.
+
+🔗 Code Link:
+[👉 Day 8 – Java Collections Scenario-Based Practice](https://github.com/vikash8058/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarioBasedPractice/src/com/day2)
