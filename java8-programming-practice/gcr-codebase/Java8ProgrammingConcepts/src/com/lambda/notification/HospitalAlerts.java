@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 public class HospitalAlerts {
 
 	public static void main(String[] args) {
-
+		
 		// Creating list of alerts
 		List<Alert> alerts = new ArrayList<>();
 
