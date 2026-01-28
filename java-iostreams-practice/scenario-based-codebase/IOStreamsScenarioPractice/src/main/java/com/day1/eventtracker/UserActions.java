@@ -1,4 +1,4 @@
-package com.eventtracker;
+package com.day1.eventtracker;
 
 public class UserActions {
 
