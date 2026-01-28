@@ -1,4 +1,4 @@
-package com.healthcheckpro;
+package com.day1.healthcheckpro;
 
 import java.lang.annotation.*;
 

@@ -1,7 +1,4 @@
-package com.healthcheckpro;
-
-import com.healthcheckpro.PublicAPI;
-import com.healthcheckpro.RequiresAuth;
+package com.day1.healthcheckpro;
 
 public class LabTestController {
 
