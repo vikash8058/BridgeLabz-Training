@@ -1,4 +1,4 @@
-package com.markmate;
+package com.day1.markmate;
 
 public class MarkMateApp {
 

@@ -1,4 +1,4 @@
-package com.markmate;
+package com.day1.markmate;
 
 import java.io.*;
 import java.util.*;
