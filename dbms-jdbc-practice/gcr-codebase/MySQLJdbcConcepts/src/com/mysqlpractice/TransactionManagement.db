@@ -51,7 +51,7 @@ Implement a banking system with:
 
 2- Check balance
 
-		mysql> select * from account;
+		mysql> SELECT * FROM account;
 		+------------+--------+---------+
 		| account_id | name   | balance |
 		+------------+--------+---------+
@@ -63,7 +63,7 @@ Implement a banking system with:
 
 3- Transaction history
 		
-		mysql> SELECt * FROM transaction_history;
+		mysql> SELECT * FROM transaction_history;
 		+--------+--------------+------------+--------+---------------------+
 		| txn_id | from_account | to_account | amount | txn_date            |
 		+--------+--------------+------------+--------+---------------------+
