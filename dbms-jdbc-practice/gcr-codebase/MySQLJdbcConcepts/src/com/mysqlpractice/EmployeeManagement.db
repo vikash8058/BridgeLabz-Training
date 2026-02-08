@@ -61,6 +61,78 @@ mysql> SELECT * FROM employee;
 |   105 | Utkarsh Mishra   |  98000 |
 +-------+------------------+--------+
 5 rows in set (0.00 sec)
+
+
+3- Update employee salary
+
+	UPDATE employee SET salary=75000
+	WHERE empId=104;
 	
+	output: 
+	
++-------+------------------+--------+
+| empId | name             | salary |
++-------+------------------+--------+
+|   101 | Anuj  Dwivedi    |  76000 |
+|   102 | Vishal Yadav     |  89000 |
+|   103 | Anupam Shukla    |  72000 |
+|   104 | Vikash Prajapati |  75000 |
+|   105 | Utkarsh Mishra   |  98000 |
++-------+------------------+--------+
+5 rows in set (0.00 sec)
+
+
+4- Delete employee
+
+	DELETE FROM employee WHERE empId=105;
+	
+output: 
+
++-------+------------------+--------+
+| empId | name             | salary |
++-------+------------------+--------+
+|   101 | Anuj  Dwivedi    |  76000 |
+|   102 | Vishal Yadav     |  89000 |
+|   103 | Anupam Shukla    |  72000 |
+|   104 | Vikash Prajapati |  75000 |
++-------+------------------+--------+
+4 rows in set (0.00 sec)
+ 	
+ 	
+ 	
+ 5- Search employee by name
+ 
+ 		mysql> SELECT * FROM employee
+    ->  WHERE name LIKE 'V%';
++-------+------------------+--------+
+| empId | name             | salary |
++-------+------------------+--------+
+|   102 | Vishal Yadav     |  89000 |
+|   104 | Vikash Prajapati |  75000 |
++-------+------------------+--------+
+2 rows in set (0.00 sec)
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
  	
  	
