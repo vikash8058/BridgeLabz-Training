@@ -1,5 +1,6 @@
 3. Appointment Scheduling
 
+
 			mysql> CREATE TABLE as_patients (
 		    ->     patient_id INT AUTO_INCREMENT PRIMARY KEY,
 		    ->     patient_name VARCHAR(50),
