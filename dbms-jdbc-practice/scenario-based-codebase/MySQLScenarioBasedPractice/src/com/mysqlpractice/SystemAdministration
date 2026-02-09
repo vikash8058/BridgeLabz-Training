@@ -1,5 +1,6 @@
 6. System Administration
 
+
 		mysql> CREATE TABLE sa_specialties (
 		    ->     specialty_id INT AUTO_INCREMENT PRIMARY KEY,
 		    ->     specialty_name VARCHAR(50) UNIQUE
