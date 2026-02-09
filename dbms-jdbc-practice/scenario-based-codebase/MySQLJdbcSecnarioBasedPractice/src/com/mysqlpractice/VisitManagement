@@ -83,6 +83,7 @@ Flow: Execute JOIN query across visits, prescriptions, and appointments tables. 
 
 	code->
 
+
 		mysql> SELECT
 		    ->     v.visit_date,
 		    ->     d.doctor_name,
