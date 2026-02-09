@@ -1,5 +1,7 @@
 5. Billing & Payments
 	
+	
+	
 			mysql> CREATE TABLE bp_patients (
 		    ->     patient_id INT AUTO_INCREMENT PRIMARY KEY,
 		    ->     patient_name VARCHAR(50)
