@@ -7,6 +7,7 @@ Build a library management system with:
 • Search functionality with multiple filters
 */
 
+
 1- Book inventory
 
 		CREATE TABLE books (
