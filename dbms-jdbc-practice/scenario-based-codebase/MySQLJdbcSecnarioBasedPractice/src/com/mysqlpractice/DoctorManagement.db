@@ -12,6 +12,7 @@ Flow: Input doctor details (name, specialization, contact, consultation fee). In
 	    -> );
 		Query OK, 0 rows affected (0.04 sec)
 	
+	
 		mysql> INSERT INTO specialties VALUES
 	    -> (1, 'Cardiology'),
 	    -> (2, 'Orthopedics'),
