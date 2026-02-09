@@ -126,6 +126,7 @@ Flow: Execute JOIN query between appointments and visits tables filtered by pati
 		    -> );
 		Query OK, 0 rows affected (0.04 sec)
 		
+		
 		mysql> INSERT INTO doctors VALUES (1, 'Dr. Mehta');
 		Query OK, 1 row affected (0.01 sec)
 		
