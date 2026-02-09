@@ -1,5 +1,7 @@
 4. Visit Management & Medical Records
 	
+	
+	
 		mysql> CREATE TABLE vm_patients (
 		    ->     patient_id INT AUTO_INCREMENT PRIMARY KEY,
 		    ->     patient_name VARCHAR(50)
