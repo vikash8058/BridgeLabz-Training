@@ -114,6 +114,7 @@ Flow: Execute JDBC batch operations to export critical tables. Use DatabaseMetaD
 		Query OK, 2 rows affected (0.01 sec)
 		Records: 2  Duplicates: 0  Warnings: 0
 		
+		
 		mysql> SELECT * FROM sa_backup_log;
 		+-----------+----------------+---------------------+---------+
 		| backup_id | table_name     | backup_date         | status  |
