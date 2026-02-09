@@ -7,7 +7,6 @@ Implement a banking system with:
 • Transaction history
 
 */
-
 		use mysql_jdbc_practice;
 		 
 		CREATE TABLE account(
